@@ -33,3 +33,5 @@ Once installed, the plugin adds a textarea for notes under each product in the s
 
 For support, feature requests, or bug reporting, please open an issue in this repository.
 
+## Screenshot
+![image](https://github.com/archthinos/NoteInBasketShoptet/assets/27582579/8c94fdf0-25ba-4ecb-9b89-86a81e6d7279)
